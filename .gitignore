@@ -3,3 +3,4 @@
 /.vscode/settings.json
 /.vscode/tasks.json
 /src/include/SDL2
+/src/lib2/libSDL2_ttf.a
